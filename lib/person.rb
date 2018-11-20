@@ -8,7 +8,7 @@ class Person
     @name
   end
   
-  def name=(new_name)
+  def name=(new_name) #setter method
     @name = new_name
   end
   
@@ -20,7 +20,7 @@ class Person
     @job
   end
   
-  def job=(new_job)
+  def job=(new_job) #setter method
     @job = new_job
   end
   
